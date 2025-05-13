@@ -23,4 +23,4 @@
 ---
 
 ### 📚 Certifications
-- ML with Python (Kaggle) | R + SQL for Data Analytics | Java | UI/UX
+- ML with Python (Kaggle) | Executive Diploma (Application of Artificial Intelligence) | R + SQL for Data Analytics | Java | UI/UX 
